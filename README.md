@@ -41,10 +41,10 @@ I regularly challenge myself by solving coding problems on platforms like LeetCo
 
 ## 🔗 Connect with Me
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/bayya-maniteja/)
-- [💻 GitHub](https://github.com/maniteja2005)
-- [📺 YouTube](https://www.youtube.com/@maniteja2005)
-- [💡 LeetCode](https://leetcode.com/BAYYAMANITEJA/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/bayya-maniteja-406bb32a3/)
+- [💻 GitHub](https://github.com/manitejabayya)
+- [📺 YouTube](https://www.youtube.com/@Manitejj)
+- [💡 LeetCode](https://leetcode.com/u/user0887Kz/)
 
 ---
 
