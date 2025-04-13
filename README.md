@@ -33,9 +33,9 @@ I regularly challenge myself by solving coding problems on platforms like LeetCo
 
 ## 📈 GitHub Stats
 
-![Bayya Maniteja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maniteja2005&show_icons=true&theme=radical)
+![Bayya Maniteja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manitejabayya&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maniteja2005&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manitejabayya&layout=compact&theme=radical)
 
 ---
 
