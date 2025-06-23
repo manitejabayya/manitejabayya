@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maniteja369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maniteja369" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bayya-maniteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bayya-maniteja" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/manitejj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manitejj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bayya-maniteja-406bb32a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bayya-maniteja" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Manitejj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manitejj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user0887kz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user0887kz" height="30" width="40" /></a>
 </p>
 
